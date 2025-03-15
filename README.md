@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iistargazer
 - 👀 I’m interested in video games and art
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on game development
+- 🌱 Languages: C++, Python
+- 💞️ I’m looking to collaborate on game development and embedded systems
 - 📫 How to reach me @percyyisbased on discord
 - 😄 Pronouns: idk
 - ⚡ Fun fact: teehee
